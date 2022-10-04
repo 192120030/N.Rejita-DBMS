@@ -1,0 +1,43 @@
+mysql> insert into w.student values(192120030,"Rejita","f","2002-11-14",77319232,"chirala");
+Query OK, 1 row affected (0.01 sec)
+
+mysql> select *from w.student;
++-----------+------+--------+------------+-----------+---------+
+| reg_no    | name | gender | dob        | mobile_no | city    |
++-----------+------+--------+------------+-----------+---------+
+| 192120030 |Rejita | m      | 2002-11-14 |  77319232 | chirala |
++-----------+------+--------+------------+-----------+---------+
+1 row in set (0.00 sec)
+mysql> update w.student set name="Nandu" where reg_no=192120020;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+mysql> insert into w.faculty values(1234, "sai","f", "1999-02-01","2020-01-01",7731,06);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> insert into w.faculty values(1544, "Jaya","f", "1989-02-21","2020-01-01",7344,06);
+Query OK, 1 row affected (0.02 sec)
+
+mysql> update w.faculty set dob="1983-05-01" where fac_name="Jaya";
+Query OK, 1 row affected (0.02 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> delete from w.faculty where fac_name="sai";
+Query OK, 1 row affected (0.02 sec)
+
+mysql> select *from w.student;
++-----------+-------+--------+------------+-----------+---------+
+| reg_no    | name  | gender | dob        | mobile_no | city    |
++-----------+-------+--------+------------+-----------+---------+
+| 192120020 |Nandu| f      | 2002-11-14 |  77319232 | chirala |
++-----------+-------+--------+------------+-----------+---------+
+1 row in set (0.00 sec)
+
+mysql> select *from w.faculty;
++--------+----------+--------+------------+--------------+-----------+---------+
+| fac_no | fac_name | gender | dob        | date_of_join | mobile_no | dept_no |
++--------+----------+--------+------------+--------------+-----------+---------+
+|   1544 |Jaya      | f      | 1983-05-01 | 2020-01-01   |      7344 |       6 |
++--------+----------+--------+------------+--------------+-----------+---------+
+1 row in set (0.00 sec)
