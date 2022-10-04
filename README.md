@@ -43,3 +43,6 @@
 ![image](https://user-images.githubusercontent.com/114385597/193782809-7bfcd774-698e-4131-a1a2-75417668740e.png)
 ## Experiment 6 Output
 ![image](https://user-images.githubusercontent.com/114385597/193783826-fcf317bc-18a2-4f15-bad3-80b91af82f09.png)
+
+![image](https://user-images.githubusercontent.com/114385597/193784238-5f0fcef8-3d9e-4242-b1d8-c6c3860fe738.png)
+
