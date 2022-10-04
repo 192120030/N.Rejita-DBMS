@@ -29,3 +29,4 @@
 ![image](https://user-images.githubusercontent.com/114385597/193746196-899658ef-e48d-4965-b80a-810625108038.png)
 ## Experiment 5 Output
 ![image](https://user-images.githubusercontent.com/114385597/193780113-754f27fc-ab08-40d4-995d-a387a0411d43.png)
+![image](https://user-images.githubusercontent.com/114385597/193780526-300916d5-b8c7-4740-961a-3d9a09c72a54.png)
