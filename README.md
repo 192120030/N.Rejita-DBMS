@@ -74,6 +74,9 @@
 ![image](https://user-images.githubusercontent.com/114385597/194048184-311d4307-4548-4d4b-8afa-d3121e40ee82.png)
 
 ![image](https://user-images.githubusercontent.com/114385597/194048435-8b2665ed-d353-41d7-a4bb-d8092f182771.png)
+## Experiment 11 Output
+![image](https://user-images.githubusercontent.com/114385597/194048956-f32b8f40-39fe-404d-8a06-e211a45df00e.png)
+
 
 
 
