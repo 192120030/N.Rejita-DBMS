@@ -73,6 +73,9 @@
 ## Experiment 10 Output
 ![image](https://user-images.githubusercontent.com/114385597/194048184-311d4307-4548-4d4b-8afa-d3121e40ee82.png)
 
+![image](https://user-images.githubusercontent.com/114385597/194048435-8b2665ed-d353-41d7-a4bb-d8092f182771.png)
+
+
 
 
 
