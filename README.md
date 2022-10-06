@@ -90,6 +90,10 @@
 ![image](https://user-images.githubusercontent.com/114385597/194230788-fe57dedf-ec6f-4a66-982b-4e8dc3742513.png)
 ## Experiment 16 Output
 ![image](https://user-images.githubusercontent.com/114385597/194245464-d75ceb55-432c-44a0-ab95-0e74882035f2.png)
+## Experiment 17 Output
+![image](https://user-images.githubusercontent.com/114385597/194246413-2c87764e-78eb-4282-88ec-ce3a3ae7e79c.png)
+
+
 
 
 
