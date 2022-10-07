@@ -119,6 +119,9 @@
 ## Experiment 25 Output
 ![image](https://user-images.githubusercontent.com/114385597/194517338-0cb1f07c-8447-460d-a405-c3d802308cd1.png)
 
+![image](https://user-images.githubusercontent.com/114385597/194517578-61c7d974-ae07-4610-99c3-4f2e6dfd847c.png)
+
+
 
 
 
