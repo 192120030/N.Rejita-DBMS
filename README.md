@@ -111,6 +111,9 @@
 ## Experiment 23 Output
 ![image](https://user-images.githubusercontent.com/114385597/194516323-f18fd3d9-efeb-4d96-956e-34d576f69f42.png)
 
+![image](https://user-images.githubusercontent.com/114385597/194516692-137e1f87-fb06-4630-ad4c-2ad3b2b6f6f8.png)
+
+
 
 
 
