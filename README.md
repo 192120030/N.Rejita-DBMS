@@ -101,6 +101,9 @@
 ## Experiment 21 Output
 ![image](https://user-images.githubusercontent.com/114385597/194515039-fc375f0e-dcef-43e7-964c-7bc1f63d3e04.png)
 
+![image](https://user-images.githubusercontent.com/114385597/194515339-9ddd2bf8-1a1c-4c5e-8e56-b85cbd3a5a2e.png)
+
+
 
 
 
